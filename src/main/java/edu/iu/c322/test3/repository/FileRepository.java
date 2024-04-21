@@ -171,6 +171,7 @@ public class FileRepository {
         Path path = Paths.get(IMAGES_FOLDER_PATH
                 + "/" + id + fileExtension);
         byte[] image = Files.readAllBytes(path);
+
         return image;
     }
 

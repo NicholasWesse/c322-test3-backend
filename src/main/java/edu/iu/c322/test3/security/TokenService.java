@@ -1,4 +1,4 @@
-package edu.iu.c322.test3.service;
+package edu.iu.c322.test3.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
